@@ -4,7 +4,7 @@ It's a simple Linear Regression model which predicts the price(MEDV) using the R
 
 **Text Editor - Jupyter Notebook**  
 **Data set -**
-[**kaggle**](https://www.kaggle.com "Kaggle wesite link")  
+[**_kaggle_**](https://www.kaggle.com "Kaggle wesite link")  
 **Programming Language - Python**
 
 ## Libraries
